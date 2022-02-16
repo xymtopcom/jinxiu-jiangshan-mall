@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>全部商品</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="../css/layui.css"/>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+	<!-- <script src="https://unpkg.com/axios/dist/axios.min.js"></script> -->
+	<script src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js" type="text/javascript" charset="utf-8"></script>
+	<!-- <script src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js" type="text/javascript" charset="utf-8"></script> -->
+	<link href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<style type="text/css">
+	</style>
+	<body>
+		<table class="layui-table">
+		  <colgroup>
+		    <col width="150">
+		    <col width="200">
+		    <col>
+		  </colgroup>
+		  <thead>
+		    <tr>
+		      <th>商品名称</th>
+		      <th>商品id</th>
+		      <th>价格</th>
+			  <th>运费</th> 
+			  <th>商品简介</th>
+			  <th>库存</th>
+			  <th>上架时间</th>
+			  <th>商品状态</th>
+		    </tr> 
+		  </thead>
+		  <tbody v-for="item in 6">
+		    <tr>
+		      <td>好吃的胡萝卜</td>
+		      <td>666666</td>
+		      <td>18</td>
+			  <th>20</th>
+			  <th>好吃的胡萝卜</th>
+			  <th>999</th>
+			  <th>2020.5.20</th>
+			  <th>正在审核</th>
+		    </tr>
+		  </tbody>
+		</table>
+	</body>
+	<script type="text/javascript">
+		var vm = new Vue({
+			'el':'.layui-table',
+			data:{
+				// 'product':this.product,
+			},
+			methods:{
+				
+			},
+			beforeCreate() {
+				axios
+				 .get('https://api.api.hnmy.club/product',{
+					 params:{
+						 'username':'1',
+						 // 'password':this.password,
+					 }
+				 })
+				 .then(function(res){
+					var product= res.data.data
+					// this.l = res.data.data.length
+					 console.log(res.data.data)
+				 })
+				 .catch(function(err){
+					 console.log(err)
+				 })
+			},
+		})
+	</script>
+</html>

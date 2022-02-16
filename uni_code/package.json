@@ -1,0 +1,9 @@
+{
+    "id": "lm-shop",
+    "name": "瀑布流商品展示",
+    "version": "1.1",
+    "description": "开箱即用得商品列表",
+    "keywords": [
+        "开箱即用"
+    ]
+}

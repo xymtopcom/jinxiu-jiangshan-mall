@@ -1,0 +1,914 @@
+卷 北极星河 的文件夹 PATH 列表
+卷序列号为 4AF4-B884
+D:.
+├─code
+│  ├─.vscode
+│  ├─bat
+│  ├─cpp
+│  │  └─dev
+│  ├─exm
+│  ├─go
+│  ├─ico
+│  ├─php
+│  │  ├─php_pay_SDK
+│  │  │  └─lib
+│  │  └─tp
+│  │      ├─app
+│  │      │  └─controller
+│  │      ├─config
+│  │      ├─extend
+│  │      ├─public
+│  │      │  └─static
+│  │      ├─route
+│  │      ├─runtime
+│  │      └─view
+│  ├─project
+│  │  └─hua
+│  ├─python
+│  ├─sh
+│  ├─study
+│  │  ├─cpp
+│  │  ├─python
+│  │  │  ├─Day01
+│  │  │  │  └─脚本
+│  │  │  ├─Day02
+│  │  │  │  └─脚本
+│  │  │  ├─Day03
+│  │  │  ├─Day04
+│  │  │  │  └─脚本
+│  │  │  ├─Day05
+│  │  │  ├─Day06
+│  │  │  │  └─novel
+│  │  │  │      ├─novel
+│  │  │  │      ├─templates
+│  │  │  │      ├─utils
+│  │  │  │      └─view
+│  │  │  ├─Day07
+│  │  │  ├─Day08
+│  │  │  ├─Day09
+│  │  │  │  ├─haarcascade
+│  │  │  │  ├─images
+│  │  │  │  │  └─heying_faces
+│  │  │  │  └─video
+│  │  │  ├─Day10
+│  │  │  │  └─itstyle
+│  │  │  │      ├─itstyle
+│  │  │  │      ├─news
+│  │  │  │      │  └─migrations
+│  │  │  │      ├─static
+│  │  │  │      │  └─js
+│  │  │  │      └─templates
+│  │  │  ├─Day11
+│  │  │  │  └─util
+│  │  │  ├─Day12
+│  │  │  ├─Day13
+│  │  │  │  └─img
+│  │  │  ├─Day14
+│  │  │  │  └─Text
+│  │  │  ├─Day15
+│  │  │  │  └─itstyle
+│  │  │  │      ├─itstyle
+│  │  │  │      ├─templates
+│  │  │  │      ├─utils
+│  │  │  │      └─view
+│  │  │  ├─Day16
+│  │  │  ├─Day17
+│  │  │  │  └─speech
+│  │  │  │      ├─script
+│  │  │  │      ├─speech
+│  │  │  │      ├─static
+│  │  │  │      │  ├─css
+│  │  │  │      │  ├─image
+│  │  │  │      │  ├─iview
+│  │  │  │      │  │  └─fonts
+│  │  │  │      │  ├─js
+│  │  │  │      │  └─mui
+│  │  │  │      │      ├─css
+│  │  │  │      │      └─fonts
+│  │  │  │      ├─templates
+│  │  │  │      └─view
+│  │  │  ├─Day18
+│  │  │  ├─Day19
+│  │  │  │  └─bpmn
+│  │  │  │      ├─bpmn
+│  │  │  │      ├─script
+│  │  │  │      ├─static
+│  │  │  │      │  ├─AdminLTE
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  │  ├─alt
+│  │  │  │      │  │  │  └─skins
+│  │  │  │      │  │  ├─img
+│  │  │  │      │  │  │  └─credit
+│  │  │  │      │  │  └─js
+│  │  │  │      │  │      └─pages
+│  │  │  │      │  ├─bootstrap
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  ├─fonts
+│  │  │  │      │  │  └─js
+│  │  │  │      │  ├─bpmn
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  │  └─static
+│  │  │  │      │  │  │      └─media
+│  │  │  │      │  │  ├─font
+│  │  │  │      │  │  └─js
+│  │  │  │      │  ├─canvg
+│  │  │  │      │  ├─flat_ui
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  │  └─vendor
+│  │  │  │      │  │  ├─fonts
+│  │  │  │      │  │  │  ├─glyphicons
+│  │  │  │      │  │  │  └─lato
+│  │  │  │      │  │  ├─img
+│  │  │  │      │  │  │  ├─icons
+│  │  │  │      │  │  │  │  ├─png
+│  │  │  │      │  │  │  │  └─svg
+│  │  │  │      │  │  │  ├─login
+│  │  │  │      │  │  │  └─tile
+│  │  │  │      │  │  └─js
+│  │  │  │      │  │      └─vendor
+│  │  │  │      │  ├─font-awesome
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  ├─fonts
+│  │  │  │      │  │  ├─less
+│  │  │  │      │  │  └─scss
+│  │  │  │      │  ├─Ionicons
+│  │  │  │      │  │  ├─css
+│  │  │  │      │  │  ├─fonts
+│  │  │  │      │  │  ├─less
+│  │  │  │      │  │  ├─png
+│  │  │  │      │  │  │  └─512
+│  │  │  │      │  │  ├─scss
+│  │  │  │      │  │  └─src
+│  │  │  │      │  ├─iview
+│  │  │  │      │  │  └─styles
+│  │  │  │      │  │      └─fonts
+│  │  │  │      │  ├─layer
+│  │  │  │      │  │  └─skin
+│  │  │  │      │  │      └─default
+│  │  │  │      │  ├─libs
+│  │  │  │      │  └─localstorage
+│  │  │  │      ├─templates
+│  │  │  │      └─view
+│  │  │  ├─Day20
+│  │  │  │  └─util
+│  │  │  ├─Day21
+│  │  │  │  └─img
+│  │  │  ├─Day22
+│  │  │  ├─Day23
+│  │  │  │  └─haarcascade
+│  │  │  ├─Day24
+│  │  │  ├─Day25
+│  │  │  ├─Day26
+│  │  │  ├─Day27
+│  │  │  ├─Day28
+│  │  │  ├─Day29
+│  │  │  ├─Python27
+│  │  │  ├─www
+│  │  │  │  ├─case
+│  │  │  │  ├─img
+│  │  │  │  └─js
+│  │  │  └─设计模式_27
+│  │  │      ├─代理模式
+│  │  │      ├─原型模式
+│  │  │      ├─命令模式
+│  │  │      ├─外观模式
+│  │  │      ├─工厂模式vs简单工厂
+│  │  │      ├─建造者模式
+│  │  │      ├─抽象工厂模式
+│  │  │      ├─桥接模式
+│  │  │      ├─模板方法模式
+│  │  │      ├─状态模式
+│  │  │      ├─组合模式
+│  │  │      ├─装饰器
+│  │  │      ├─装饰模式
+│  │  │      ├─观察者模式
+│  │  │      └─适配器模式
+│  │  └─qt
+│  │      ├─day1资料
+│  │      │  ├─Code
+│  │      │  │  ├─01_FirstProject
+│  │      │  │  ├─02_SignalAndSlot
+│  │      │  │  ├─build-01_FirstProject-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  └─build-02_SignalAndSlot-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │      └─debug
+│  │      │  └─Doc
+│  │      ├─day2资料
+│  │      │  ├─Code
+│  │      │  │  ├─01_QMainWindow
+│  │      │  │  ├─02_QtSource
+│  │      │  │  │  └─Image
+│  │      │  │  ├─03_QDialog
+│  │      │  │  ├─04_Layout
+│  │      │  │  ├─05_Qt_Control
+│  │      │  │  │  └─Image
+│  │      │  │  ├─06_TreeWidget
+│  │      │  │  ├─07_TableWidget
+│  │      │  │  ├─08_OtherControl
+│  │      │  │  │  └─Image
+│  │      │  │  ├─build-01_QMainWindow-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-02_QtSource-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-03_QDialog-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-04_Layout-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-05_Qt_Control-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-06_TreeWidget-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-07_TableWidget-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  └─build-08_OtherControl-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │      └─debug
+│  │      │  └─Doc
+│  │      │      └─Image
+│  │      ├─day3资料
+│  │      │  ├─Code
+│  │      │  │  ├─01_smallWidget
+│  │      │  │  ├─02_QtEvent
+│  │      │  │  ├─03_QPainter
+│  │      │  │  │  └─Image
+│  │      │  │  ├─04_QtPaintDevice
+│  │      │  │  │  └─Image
+│  │      │  │  ├─05_Qt_QFile
+│  │      │  │  ├─build-01_smallWidget-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-02_QtEvent-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-03_QPainter-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  ├─build-04_QtPaintDevice-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  └─build-05_Qt_QFile-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │      └─debug
+│  │      │  └─Doc
+│  │      ├─day4资料
+│  │      │  ├─Code
+│  │      │  │  ├─build-CoinFlip-Desktop_Qt_5_6_0_MinGW_32bit-Debug
+│  │      │  │  │  └─debug
+│  │      │  │  └─CoinFlip
+│  │      │  │      └─res
+│  │      │  └─Doc
+│  │      │      └─res
+│  │      ├─day5资料
+│  │      │  └─code
+│  │      └─qt帮助文档
+│  ├─tools
+│  │  ├─battoexe
+│  │  └─vbstoexe
+│  └─word
+├─everyui
+│  ├─everyui
+│  └─layui
+│      ├─css
+│      │  └─modules
+│      │      ├─laydate
+│      │      │  └─default
+│      │      └─layer
+│      │          └─default
+│      ├─font
+│      ├─images
+│      │  └─face
+│      ├─lay
+│      │  └─modules
+│      └─文档与示例
+│          └─仓库
+├─Haruna
+│  ├─.github
+│  │  └─workflows
+│  ├─cmake
+│  ├─data
+│  │  ├─color-schemes
+│  │  └─screenshots
+│  ├─help
+│  ├─LICENSES
+│  └─src
+│      ├─playlist
+│      ├─qml
+│      │  ├─Haruna
+│      │  │  └─Components
+│      │  ├─Menus
+│      │  └─Settings
+│      └─settings
+├─jinxiu-jiangshan-mall
+│  ├─api
+│  │  ├─.vscode
+│  │  └─api
+│  │      ├─app
+│  │      │  ├─controller
+│  │      │  └─model
+│  │      ├─config
+│  │      ├─extend
+│  │      ├─public
+│  │      │  ├─css
+│  │      │  ├─fonts
+│  │      │  ├─images
+│  │      │  ├─js
+│  │      │  └─static
+│  │      ├─route
+│  │      ├─runtime
+│  │      └─view
+│  ├─wxapi
+│  │  ├─.vscode
+│  │  └─lanewechat
+│  │      ├─.vscode
+│  │      └─core
+│  │          ├─aes
+│  │          └─lib
+│  ├─其他资料
+│  ├─支付接口
+│  │  ├─.idea
+│  │  ├─.vscode
+│  │  └─lib
+│  ├─设计图片
+│  ├─锦绣疆山uni
+│  │  ├─colorui
+│  │  │  └─components
+│  │  ├─components
+│  │  │  ├─ClassifyData
+│  │  │  ├─CodeKeyboard
+│  │  │  ├─DialogBox
+│  │  │  ├─GoodsAttr
+│  │  │  ├─GoodsCoupon
+│  │  │  ├─GoodsServe
+│  │  │  ├─InvoiceInfo
+│  │  │  ├─mescroll-uni
+│  │  │  │  ├─components
+│  │  │  │  ├─mixins
+│  │  │  │  └─wxs
+│  │  │  ├─TabBar
+│  │  │  └─UseCoupon
+│  │  ├─pages
+│  │  │  ├─AboutUs
+│  │  │  ├─AccountAssociated
+│  │  │  ├─AccountSecurity
+│  │  │  ├─AddressEdit
+│  │  │  ├─AddressList
+│  │  │  ├─AfterSalesOrder
+│  │  │  ├─AfterSaleType
+│  │  │  ├─ArticleDetails
+│  │  │  ├─AssociatedmMailbox
+│  │  │  ├─BrowsingHistory
+│  │  │  ├─cart
+│  │  │  ├─CashierDesk
+│  │  │  ├─ChangePassword
+│  │  │  ├─classify
+│  │  │  ├─ConfirmOrder
+│  │  │  ├─ConsumeRecord
+│  │  │  ├─ContentCollection
+│  │  │  ├─DiscountsActivity
+│  │  │  ├─discover
+│  │  │  ├─ExchangeDetails
+│  │  │  ├─ExchangeRecord
+│  │  │  ├─ExchangeResult
+│  │  │  ├─Feedback
+│  │  │  ├─FlashSale
+│  │  │  ├─GoodChoice
+│  │  │  ├─GoodsDetails
+│  │  │  ├─GoodsEvaluateList
+│  │  │  ├─GoodsOn
+│  │  │  ├─home
+│  │  │  ├─Information
+│  │  │  ├─IntegralDetails
+│  │  │  ├─IntegralRecord
+│  │  │  ├─InvoiceAdd
+│  │  │  ├─InvoiceList
+│  │  │  ├─login
+│  │  │  ├─MembersOpened
+│  │  │  ├─Message
+│  │  │  ├─ModifyPhone
+│  │  │  ├─my
+│  │  │  ├─MyCoupon
+│  │  │  ├─MyEvaluatePush
+│  │  │  ├─MyMemberInterest
+│  │  │  ├─MyOrderList
+│  │  │  ├─MyWallet
+│  │  │  ├─NotificationMessage
+│  │  │  ├─OrderDetails
+│  │  │  ├─PaymentCode
+│  │  │  ├─PaymentEdit
+│  │  │  ├─PaymentForget
+│  │  │  ├─PaymentPassword
+│  │  │  ├─PayResult
+│  │  │  ├─register
+│  │  │  ├─ReturnDetails
+│  │  │  ├─search
+│  │  │  ├─SearchGoodsList
+│  │  │  ├─Setting
+│  │  │  ├─SettingCommon
+│  │  │  ├─SignIn
+│  │  │  └─web
+│  │  ├─static
+│  │  │  ├─img
+│  │  │  ├─nav
+│  │  │  └─tabBar
+│  │  ├─style
+│  │  ├─unpackage
+│  │  │  ├─cache
+│  │  │  │  └─wgt
+│  │  │  │      └─__UNI__8A31AE5
+│  │  │  │          ├─.manifest
+│  │  │  │          └─static
+│  │  │  │              ├─img
+│  │  │  │              ├─nav
+│  │  │  │              └─tabBar
+│  │  │  ├─dist
+│  │  │  │  ├─dev
+│  │  │  │  │  ├─.automator
+│  │  │  │  │  │  ├─app-plus
+│  │  │  │  │  │  └─mp-weixin
+│  │  │  │  │  ├─.sourcemap
+│  │  │  │  │  │  └─mp-weixin
+│  │  │  │  │  │      ├─common
+│  │  │  │  │  │      ├─components
+│  │  │  │  │  │      │  ├─ClassifyData
+│  │  │  │  │  │      │  ├─CodeKeyboard
+│  │  │  │  │  │      │  ├─DialogBox
+│  │  │  │  │  │      │  ├─GoodsAttr
+│  │  │  │  │  │      │  ├─GoodsCoupon
+│  │  │  │  │  │      │  ├─GoodsServe
+│  │  │  │  │  │      │  ├─InvoiceInfo
+│  │  │  │  │  │      │  ├─mescroll-uni
+│  │  │  │  │  │      │  │  └─components
+│  │  │  │  │  │      │  ├─TabBar
+│  │  │  │  │  │      │  └─UseCoupon
+│  │  │  │  │  │      └─pages
+│  │  │  │  │  │          ├─AboutUs
+│  │  │  │  │  │          ├─AccountAssociated
+│  │  │  │  │  │          ├─AccountSecurity
+│  │  │  │  │  │          ├─AddressEdit
+│  │  │  │  │  │          ├─AddressList
+│  │  │  │  │  │          ├─AfterSalesOrder
+│  │  │  │  │  │          ├─AfterSaleType
+│  │  │  │  │  │          ├─ArticleDetails
+│  │  │  │  │  │          ├─AssociatedmMailbox
+│  │  │  │  │  │          ├─BrowsingHistory
+│  │  │  │  │  │          ├─cart
+│  │  │  │  │  │          ├─CashierDesk
+│  │  │  │  │  │          ├─ChangePassword
+│  │  │  │  │  │          ├─classify
+│  │  │  │  │  │          ├─ConfirmOrder
+│  │  │  │  │  │          ├─ConsumeRecord
+│  │  │  │  │  │          ├─ContentCollection
+│  │  │  │  │  │          ├─DiscountsActivity
+│  │  │  │  │  │          ├─discover
+│  │  │  │  │  │          ├─ExchangeDetails
+│  │  │  │  │  │          ├─ExchangeRecord
+│  │  │  │  │  │          ├─ExchangeResult
+│  │  │  │  │  │          ├─Feedback
+│  │  │  │  │  │          ├─FlashSale
+│  │  │  │  │  │          ├─GoodChoice
+│  │  │  │  │  │          ├─GoodsDetails
+│  │  │  │  │  │          ├─GoodsEvaluateList
+│  │  │  │  │  │          ├─GoodsOn
+│  │  │  │  │  │          ├─home
+│  │  │  │  │  │          ├─Information
+│  │  │  │  │  │          ├─IntegralDetails
+│  │  │  │  │  │          ├─IntegralRecord
+│  │  │  │  │  │          ├─InvoiceAdd
+│  │  │  │  │  │          ├─InvoiceList
+│  │  │  │  │  │          ├─login
+│  │  │  │  │  │          ├─MembersOpened
+│  │  │  │  │  │          ├─Message
+│  │  │  │  │  │          ├─ModifyPhone
+│  │  │  │  │  │          ├─my
+│  │  │  │  │  │          ├─MyCoupon
+│  │  │  │  │  │          ├─MyEvaluatePush
+│  │  │  │  │  │          ├─MyMemberInterest
+│  │  │  │  │  │          ├─MyOrderList
+│  │  │  │  │  │          ├─MyWallet
+│  │  │  │  │  │          ├─NotificationMessage
+│  │  │  │  │  │          ├─OrderDetails
+│  │  │  │  │  │          ├─PaymentCode
+│  │  │  │  │  │          ├─PaymentEdit
+│  │  │  │  │  │          ├─PaymentForget
+│  │  │  │  │  │          ├─PaymentPassword
+│  │  │  │  │  │          ├─PayResult
+│  │  │  │  │  │          ├─register
+│  │  │  │  │  │          ├─ReturnDetails
+│  │  │  │  │  │          ├─search
+│  │  │  │  │  │          ├─SearchGoodsList
+│  │  │  │  │  │          ├─Setting
+│  │  │  │  │  │          ├─SettingCommon
+│  │  │  │  │  │          ├─SignIn
+│  │  │  │  │  │          ├─test
+│  │  │  │  │  │          └─web
+│  │  │  │  │  ├─mp-weixin
+│  │  │  │  │  │  ├─common
+│  │  │  │  │  │  ├─components
+│  │  │  │  │  │  │  ├─ClassifyData
+│  │  │  │  │  │  │  ├─CodeKeyboard
+│  │  │  │  │  │  │  ├─DialogBox
+│  │  │  │  │  │  │  ├─GoodsAttr
+│  │  │  │  │  │  │  ├─GoodsCoupon
+│  │  │  │  │  │  │  ├─GoodsServe
+│  │  │  │  │  │  │  ├─InvoiceInfo
+│  │  │  │  │  │  │  ├─mescroll-uni
+│  │  │  │  │  │  │  │  ├─components
+│  │  │  │  │  │  │  │  └─wxs
+│  │  │  │  │  │  │  ├─TabBar
+│  │  │  │  │  │  │  └─UseCoupon
+│  │  │  │  │  │  ├─pages
+│  │  │  │  │  │  │  ├─AboutUs
+│  │  │  │  │  │  │  ├─AccountAssociated
+│  │  │  │  │  │  │  ├─AccountSecurity
+│  │  │  │  │  │  │  ├─AddressEdit
+│  │  │  │  │  │  │  ├─AddressList
+│  │  │  │  │  │  │  ├─AfterSalesOrder
+│  │  │  │  │  │  │  ├─AfterSaleType
+│  │  │  │  │  │  │  ├─ArticleDetails
+│  │  │  │  │  │  │  ├─AssociatedmMailbox
+│  │  │  │  │  │  │  ├─BrowsingHistory
+│  │  │  │  │  │  │  ├─cart
+│  │  │  │  │  │  │  ├─CashierDesk
+│  │  │  │  │  │  │  ├─ChangePassword
+│  │  │  │  │  │  │  ├─classify
+│  │  │  │  │  │  │  ├─ConfirmOrder
+│  │  │  │  │  │  │  ├─ConsumeRecord
+│  │  │  │  │  │  │  ├─ContentCollection
+│  │  │  │  │  │  │  ├─DiscountsActivity
+│  │  │  │  │  │  │  ├─discover
+│  │  │  │  │  │  │  ├─ExchangeDetails
+│  │  │  │  │  │  │  ├─ExchangeRecord
+│  │  │  │  │  │  │  ├─ExchangeResult
+│  │  │  │  │  │  │  ├─Feedback
+│  │  │  │  │  │  │  ├─FlashSale
+│  │  │  │  │  │  │  ├─GoodChoice
+│  │  │  │  │  │  │  ├─GoodsDetails
+│  │  │  │  │  │  │  ├─GoodsEvaluateList
+│  │  │  │  │  │  │  ├─GoodsOn
+│  │  │  │  │  │  │  ├─home
+│  │  │  │  │  │  │  ├─Information
+│  │  │  │  │  │  │  ├─IntegralDetails
+│  │  │  │  │  │  │  ├─IntegralRecord
+│  │  │  │  │  │  │  ├─InvoiceAdd
+│  │  │  │  │  │  │  ├─InvoiceList
+│  │  │  │  │  │  │  ├─login
+│  │  │  │  │  │  │  ├─MembersOpened
+│  │  │  │  │  │  │  ├─Message
+│  │  │  │  │  │  │  ├─ModifyPhone
+│  │  │  │  │  │  │  ├─my
+│  │  │  │  │  │  │  ├─MyCoupon
+│  │  │  │  │  │  │  ├─MyEvaluatePush
+│  │  │  │  │  │  │  ├─MyMemberInterest
+│  │  │  │  │  │  │  ├─MyOrderList
+│  │  │  │  │  │  │  ├─MyWallet
+│  │  │  │  │  │  │  ├─NotificationMessage
+│  │  │  │  │  │  │  ├─OrderDetails
+│  │  │  │  │  │  │  ├─PaymentCode
+│  │  │  │  │  │  │  ├─PaymentEdit
+│  │  │  │  │  │  │  ├─PaymentForget
+│  │  │  │  │  │  │  ├─PaymentPassword
+│  │  │  │  │  │  │  ├─PayResult
+│  │  │  │  │  │  │  ├─register
+│  │  │  │  │  │  │  ├─ReturnDetails
+│  │  │  │  │  │  │  ├─search
+│  │  │  │  │  │  │  ├─SearchGoodsList
+│  │  │  │  │  │  │  ├─Setting
+│  │  │  │  │  │  │  ├─SettingCommon
+│  │  │  │  │  │  │  ├─SignIn
+│  │  │  │  │  │  │  ├─test
+│  │  │  │  │  │  │  └─web
+│  │  │  │  │  │  └─static
+│  │  │  │  │  │      ├─img
+│  │  │  │  │  │      ├─nav
+│  │  │  │  │  │      └─tabBar
+│  │  │  │  │  └─app-plus
+│  │  │  │  │      └─static
+│  │  │  │  │          ├─img
+│  │  │  │  │          ├─nav
+│  │  │  │  │          └─tabBar
+│  │  │  │  └─build
+│  │  │  │      ├─app-plus
+│  │  │  │      │  └─static
+│  │  │  │      │      ├─img
+│  │  │  │      │      ├─nav
+│  │  │  │      │      └─tabBar
+│  │  │  │      ├─.automator
+│  │  │  │      │  ├─app-plus
+│  │  │  │      │  ├─h5
+│  │  │  │      │  └─mp-weixin
+│  │  │  │      └─mp-weixin
+│  │  │  │          ├─pages
+│  │  │  │          │  ├─AfterSaleType
+│  │  │  │          │  ├─discover
+│  │  │  │          │  ├─FlashSale
+│  │  │  │          │  ├─IntegralRecord
+│  │  │  │          │  ├─CashierDesk
+│  │  │  │          │  ├─AccountSecurity
+│  │  │  │          │  ├─GoodsOn
+│  │  │  │          │  ├─Feedback
+│  │  │  │          │  ├─ConfirmOrder
+│  │  │  │          │  ├─GoodsDetails
+│  │  │  │          │  ├─ConsumeRecord
+│  │  │  │          │  ├─search
+│  │  │  │          │  ├─BrowsingHistory
+│  │  │  │          │  ├─Setting
+│  │  │  │          │  ├─home
+│  │  │  │          │  ├─AddressEdit
+│  │  │  │          │  ├─IntegralDetails
+│  │  │  │          │  ├─InvoiceList
+│  │  │  │          │  ├─MyOrderList
+│  │  │  │          │  ├─MyCoupon
+│  │  │  │          │  ├─AfterSalesOrder
+│  │  │  │          │  ├─ChangePassword
+│  │  │  │          │  ├─PaymentCode
+│  │  │  │          │  ├─OrderDetails
+│  │  │  │          │  ├─ExchangeResult
+│  │  │  │          │  ├─MyEvaluatePush
+│  │  │  │          │  ├─GoodChoice
+│  │  │  │          │  ├─SettingCommon
+│  │  │  │          │  ├─ModifyPhone
+│  │  │  │          │  ├─SignIn
+│  │  │  │          │  ├─AddressList
+│  │  │  │          │  ├─AboutUs
+│  │  │  │          │  ├─classify
+│  │  │  │          │  ├─PaymentForget
+│  │  │  │          │  ├─my
+│  │  │  │          │  ├─PayResult
+│  │  │  │          │  ├─PaymentEdit
+│  │  │  │          │  ├─register
+│  │  │  │          │  ├─Information
+│  │  │  │          │  ├─MembersOpened
+│  │  │  │          │  ├─MyMemberInterest
+│  │  │  │          │  ├─PaymentPassword
+│  │  │  │          │  ├─SearchGoodsList
+│  │  │  │          │  ├─Message
+│  │  │  │          │  ├─cart
+│  │  │  │          │  ├─ExchangeDetails
+│  │  │  │          │  ├─AccountAssociated
+│  │  │  │          │  ├─ArticleDetails
+│  │  │  │          │  ├─NotificationMessage
+│  │  │  │          │  ├─GoodsEvaluateList
+│  │  │  │          │  ├─MyWallet
+│  │  │  │          │  ├─ReturnDetails
+│  │  │  │          │  ├─AssociatedmMailbox
+│  │  │  │          │  ├─login
+│  │  │  │          │  ├─web
+│  │  │  │          │  ├─ExchangeRecord
+│  │  │  │          │  ├─ContentCollection
+│  │  │  │          │  ├─DiscountsActivity
+│  │  │  │          │  └─InvoiceAdd
+│  │  │  │          ├─components
+│  │  │  │          │  ├─TabBar
+│  │  │  │          │  ├─UseCoupon
+│  │  │  │          │  ├─DialogBox
+│  │  │  │          │  ├─mescroll-uni
+│  │  │  │          │  │  ├─components
+│  │  │  │          │  │  └─wxs
+│  │  │  │          │  ├─GoodsCoupon
+│  │  │  │          │  ├─GoodsAttr
+│  │  │  │          │  ├─CodeKeyboard
+│  │  │  │          │  ├─GoodsServe
+│  │  │  │          │  ├─InvoiceInfo
+│  │  │  │          │  └─ClassifyData
+│  │  │  │          ├─common
+│  │  │  │          └─static
+│  │  │  │              ├─img
+│  │  │  │              ├─nav
+│  │  │  │              └─tabBar
+│  │  │  └─res
+│  │  │      └─icons
+│  │  └─.hbuilderx
+│  └─编译好的代码
+│      ├─h5
+│      │  └─static
+│      │      ├─js
+│      │      ├─img
+│      │      ├─nav
+│      │      └─tabBar
+│      └─wechat
+│          ├─common
+│          ├─components
+│          │  ├─TabBar
+│          │  ├─UseCoupon
+│          │  ├─DialogBox
+│          │  ├─mescroll-uni
+│          │  │  ├─components
+│          │  │  └─wxs
+│          │  ├─GoodsCoupon
+│          │  ├─GoodsAttr
+│          │  ├─CodeKeyboard
+│          │  ├─GoodsServe
+│          │  ├─InvoiceInfo
+│          │  └─ClassifyData
+│          ├─pages
+│          │  ├─AfterSaleType
+│          │  ├─FlashSale
+│          │  ├─discover
+│          │  ├─IntegralRecord
+│          │  ├─AccountSecurity
+│          │  ├─CashierDesk
+│          │  ├─GoodsOn
+│          │  ├─Feedback
+│          │  ├─ConfirmOrder
+│          │  ├─ConsumeRecord
+│          │  ├─GoodsDetails
+│          │  ├─BrowsingHistory
+│          │  ├─search
+│          │  ├─Setting
+│          │  ├─home
+│          │  ├─AddressEdit
+│          │  ├─IntegralDetails
+│          │  ├─InvoiceList
+│          │  ├─MyOrderList
+│          │  ├─MyCoupon
+│          │  ├─AfterSalesOrder
+│          │  ├─PaymentCode
+│          │  ├─ChangePassword
+│          │  ├─OrderDetails
+│          │  ├─ExchangeResult
+│          │  ├─GoodChoice
+│          │  ├─MyEvaluatePush
+│          │  ├─SettingCommon
+│          │  ├─ModifyPhone
+│          │  ├─SignIn
+│          │  ├─AddressList
+│          │  ├─AboutUs
+│          │  ├─classify
+│          │  ├─PaymentForget
+│          │  ├─my
+│          │  ├─PayResult
+│          │  ├─PaymentEdit
+│          │  ├─register
+│          │  ├─Information
+│          │  ├─MembersOpened
+│          │  ├─MyMemberInterest
+│          │  ├─PaymentPassword
+│          │  ├─SearchGoodsList
+│          │  ├─Message
+│          │  ├─cart
+│          │  ├─ExchangeDetails
+│          │  ├─AccountAssociated
+│          │  ├─ArticleDetails
+│          │  ├─NotificationMessage
+│          │  ├─GoodsEvaluateList
+│          │  ├─MyWallet
+│          │  ├─ReturnDetails
+│          │  ├─AssociatedmMailbox
+│          │  ├─login
+│          │  ├─web
+│          │  ├─ExchangeRecord
+│          │  ├─ContentCollection
+│          │  ├─DiscountsActivity
+│          │  └─InvoiceAdd
+│          └─static
+│              ├─img
+│              ├─nav
+│              └─tabBar
+├─jxjsseller
+│  ├─code
+│  │  ├─app
+│  │  │  └─controller
+│  │  ├─config
+│  │  ├─extend
+│  │  ├─public
+│  │  │  └─static
+│  │  ├─route
+│  │  ├─runtime
+│  │  │  └─log
+│  │  │      ├─202102
+│  │  │      └─202103
+│  │  ├─vendor
+│  │  │  ├─bin
+│  │  │  ├─composer
+│  │  │  ├─league
+│  │  │  │  ├─flysystem
+│  │  │  │  │  └─src
+│  │  │  │  │      ├─Adapter
+│  │  │  │  │      │  └─Polyfill
+│  │  │  │  │      ├─Plugin
+│  │  │  │  │      └─Util
+│  │  │  │  ├─flysystem-cached-adapter
+│  │  │  │  │  ├─clover
+│  │  │  │  │  ├─spec
+│  │  │  │  │  ├─src
+│  │  │  │  │  │  └─Storage
+│  │  │  │  │  └─tests
+│  │  │  │  └─mime-type-detection
+│  │  │  │      └─src
+│  │  │  ├─psr
+│  │  │  │  ├─cache
+│  │  │  │  │  └─src
+│  │  │  │  ├─container
+│  │  │  │  │  └─src
+│  │  │  │  ├─log
+│  │  │  │  │  └─Psr
+│  │  │  │  │      └─Log
+│  │  │  │  │          └─Test
+│  │  │  │  └─simple-cache
+│  │  │  │      └─src
+│  │  │  ├─symfony
+│  │  │  │  ├─polyfill-mbstring
+│  │  │  │  │  └─Resources
+│  │  │  │  │      └─unidata
+│  │  │  │  ├─polyfill-php72
+│  │  │  │  ├─polyfill-php80
+│  │  │  │  │  └─Resources
+│  │  │  │  │      └─stubs
+│  │  │  │  └─var-dumper
+│  │  │  │      ├─Caster
+│  │  │  │      ├─Cloner
+│  │  │  │      ├─Command
+│  │  │  │      │  └─Descriptor
+│  │  │  │      ├─Dumper
+│  │  │  │      │  └─ContextProvider
+│  │  │  │      ├─Exception
+│  │  │  │      ├─Resources
+│  │  │  │      │  ├─bin
+│  │  │  │      │  ├─css
+│  │  │  │      │  ├─functions
+│  │  │  │      │  └─js
+│  │  │  │      ├─Server
+│  │  │  │      └─Test
+│  │  │  └─topthink
+│  │  │      ├─framework
+│  │  │      │  ├─src
+│  │  │      │  │  ├─lang
+│  │  │      │  │  ├─think
+│  │  │      │  │  │  ├─cache
+│  │  │      │  │  │  │  └─driver
+│  │  │      │  │  │  ├─console
+│  │  │      │  │  │  │  ├─bin
+│  │  │      │  │  │  │  ├─command
+│  │  │      │  │  │  │  │  ├─make
+│  │  │      │  │  │  │  │  │  └─stubs
+│  │  │      │  │  │  │  │  └─optimize
+│  │  │      │  │  │  │  ├─input
+│  │  │      │  │  │  │  └─output
+│  │  │      │  │  │  │      ├─descriptor
+│  │  │      │  │  │  │      ├─driver
+│  │  │      │  │  │  │      ├─formatter
+│  │  │      │  │  │  │      └─question
+│  │  │      │  │  │  ├─contract
+│  │  │      │  │  │  ├─event
+│  │  │      │  │  │  ├─exception
+│  │  │      │  │  │  ├─facade
+│  │  │      │  │  │  ├─file
+│  │  │      │  │  │  ├─filesystem
+│  │  │      │  │  │  │  └─driver
+│  │  │      │  │  │  ├─initializer
+│  │  │      │  │  │  ├─log
+│  │  │      │  │  │  │  └─driver
+│  │  │      │  │  │  ├─middleware
+│  │  │      │  │  │  ├─response
+│  │  │      │  │  │  ├─route
+│  │  │      │  │  │  │  └─dispatch
+│  │  │      │  │  │  ├─service
+│  │  │      │  │  │  ├─session
+│  │  │      │  │  │  │  └─driver
+│  │  │      │  │  │  ├─validate
+│  │  │      │  │  │  └─view
+│  │  │      │  │  │      └─driver
+│  │  │      │  │  └─tpl
+│  │  │      │  └─tests
+│  │  │      ├─think-helper
+│  │  │      │  └─src
+│  │  │      │      ├─contract
+│  │  │      │      └─helper
+│  │  │      ├─think-orm
+│  │  │      │  ├─src
+│  │  │      │  │  ├─db
+│  │  │      │  │  │  ├─builder
+│  │  │      │  │  │  ├─concern
+│  │  │      │  │  │  ├─connector
+│  │  │      │  │  │  └─exception
+│  │  │      │  │  ├─facade
+│  │  │      │  │  ├─model
+│  │  │      │  │  │  ├─concern
+│  │  │      │  │  │  └─relation
+│  │  │      │  │  └─paginator
+│  │  │      │  │      └─driver
+│  │  │      │  └─stubs
+│  │  │      └─think-trace
+│  │  │          └─src
+│  │  │              └─tpl
+│  │  └─view
+│  ├─jxjsselleruni
+│  │  ├─center
+│  │  ├─css
+│  │  ├─img
+│  │  ├─login
+│  │  ├─my
+│  │  ├─order
+│  │  ├─product
+│  │  ├─send
+│  │  ├─zc
+│  │  ├─js
+│  │  ├─sendorder
+│  │  ├─app
+│  │  └─src
+│  └─zs
+│      ├─Apache
+│      ├─Tomcat
+│      ├─Nginx
+│      ├─IIS
+│      └─api.api
+│          ├─IIS
+│          ├─Nginx
+│          ├─Tomcat
+│          └─Apache
+└─machine-learning
+    └─src

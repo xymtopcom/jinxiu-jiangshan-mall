@@ -1,0 +1,135 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		}
+	    ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/zc/zc",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "注册",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/fk/fk",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/aboutas/aboutas",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "关于我们",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/web/web",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "浏览器",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/znkf/znkf",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "智能客服",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/AccountSecurity/AccountSecurity",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "账号设置",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		// NotificationMessage
+		{
+		    "path" : "pages/NotificationMessage/NotificationMessage",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的消息",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/Information/Information",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "设置",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/ddzx/ddzx",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "订单中心",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/sendproduct/sendproduct",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "发布商品",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/product/product",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的商品",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/senddd/senddd",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "商家发货",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

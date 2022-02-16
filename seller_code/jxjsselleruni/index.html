@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>跳转中...</title>
+	</head>
+	<body>
+		
+	</body>
+	<script type="text/javascript">
+		  if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iOS|iPad|Backerry|WebOS|Symbian|Windows Phone|Phone)/i))) {
+		        // document.write("手机访问.");
+				alert('请使用电脑访问商家后台!正在跳转到手机端');
+				window.location.href = "jxjs://open"
+		    }else{
+		        // document.write("电脑访问.");
+				window.location.href = "login/index.html"
+		    }
+		// window.location.href = "login/index.html"
+	</script>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>商品发布页面</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="../css/everyui-min.css"/>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css">
+		.product{
+			margin-top: 30px;
+			margin-left: 500px;
+		}
+		input{
+			margin-top: 30px;
+		}
+		h2{
+			margin-left: 200px;
+		}
+	</style>
+	<body>
+		<div class="product">
+		<form action="" method="" enctype="multipart/form-data">
+			<h2>商品发布信息填写</h2>
+			<input type="text"  placeholder="请输入商品名称" class="eve-input-general" v-model="productname"/>
+			<input type="text"  placeholder="请输入商品价格" class="eve-input-general" v-model="price"/>
+			<input type="text"  placeholder="请输入商品运费" class="eve-input-general" v-model="yunprice"/>
+			<input type="text"  placeholder="请输入商品介绍页链接" class="eve-input-general" v-model="detail"/>
+			<input type="text"  placeholder="请输入商品图片链接" class="eve-input-general" v-model="imgurl"/>
+			<!-- <input type="text"  placeholder="请输入商家联系方式" class="eve-input-general"/> -->
+			<br />
+			<!-- <input type="file" name="" id="" value="上传附件图片" class="eve-file-title"/> -->
+			<input type="" name="" id="" value="" placeholder="商品展示图片链接" class="eve-input-general"/>
+			<button type="button" class="eve-button-general" style="margin-left: 250px;margin-top: 80px;" @click="send()">发布商品</button>
+		</form>
+		</div>
+	</body>
+	<script type="text/javascript">
+		var vm = new Vue({
+			'el':'.product',
+			data:{
+				'productid':'',
+				'userid':'',
+				'productname':'',
+				'price':'',
+				'imgurl':'',
+				'detail':'',
+				'yunprice':'',
+			},
+			methods:{
+				send:function(){
+					alert('发布成功!');
+				}
+			}
+		})
+	</script>
+</html>

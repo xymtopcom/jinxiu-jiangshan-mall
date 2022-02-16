@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>登录商家系统</title>
+		<link rel="stylesheet" type="text/css" href="../css/everyui-min.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/layui.css"/>
+		<!-- <link rel="stylesheet" type="text/css" href="login.css"/> -->
+	</head>
+	<style type="text/css">
+		.login{
+			width: 600px;
+			float: right;
+		}
+		input{
+			width: 30px;
+			height: 60px;
+			margin-top: 30px;
+		}
+		button{
+			margin-top: 30px;
+		}
+		
+		h2{
+			font-size: 40px;
+			margin-top: 200px;
+			margin-left: 250px;
+			color: #427dd6;
+		}
+		.loginbnt{
+			margin-left: 90px;
+		}
+		.zc{
+			margin-right: 90px;
+		}
+		html{
+			/* background-image: url(../img/tc.jpg); */
+		}
+	</style>
+	<body>
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js" type="text/javascript" charset="utf-8"></script>
+		<div class="login">
+		<form action="" method="">
+			<h2>{{title}}</h2>
+			<input type="text" name="username" id="" value="" class="eve-input-general" placeholder="请输入您的账号" v-model="username"/>
+			<input type="password" name="password" id="" value="" class="eve-input-general" placeholder="请输入您的密码" v-model="password"/>
+			<button type="button" class="eve-button-3d-2 loginbnt" style="width: 50px;height: 50px; float: left;" @click="mm()">登录</button>
+			<button type="button" class="eve-button-3d-2 zc" style="width: 50px;height: 50px;float: right;"@click="mm2()">注册</button>
+		</form>
+		</div>
+	</body>
+	<script src="../js/axios.min.js" type="text/javascript" charset="utf-8"></script>
+	<!-- <script src="../js/vue.js" type="text/javascript" charset="utf-8"></script> -->
+	<script type="text/javascript">
+		var v = new Vue({
+			'el':'.login',
+			data:{
+				'title':'登录系统',
+				'username':'',
+				'password':'',
+			},
+			methods:{
+				mm2:function(){
+					window.location.href="../zc/index.html";
+				},
+				mm:function(){
+					// console.log(this.password)
+					axios
+					 .get('https://api.api.hnmy.club/login',{
+						 params:{
+							 'username':this.username,
+							 'password':this.password,
+						 }
+					 })
+					 .then(function(res){
+						 // console.log(res.data.data[0].imgurl)
+						  // 记住上线以后要改下面的内容 // 记住上线以后要改下面的内容
+						 if(res.data.code==200){
+							 alert('登录成功');
+							 sessionStorage.setItem('jxjsusername',res.data.data[0].username);
+							 // sessionStorage.setItem('imgurl',res.data.data[0].imgurl);
+							 sessionStorage.setItem('name',res.data.data[0].name);
+							 sessionStorage.setItem('nammeid',res.data.data[0].nameid);
+							 sessionStorage.setItem('email',res.data.data[0].email);
+							 sessionStorage.setItem('shopname',res.data.data[0].shopname);
+							 sessionStorage.setItem('phone',res.data.data[0].phone);
+							 window.location.href="../center/index.html"; 
+						 }else{
+							 alert('账号或者密码错误,请检查');
+						 }
+					 })
+					 .catch(function(err){
+						 console.log(err)
+					 })
+				}
+			}
+		})
+	</script>
+</html>
+
+
+
+<!-- // 保存数据到sessionStorage
+
+sessionStorage.setItem('key', 'value');
+
+ 
+
+// 从sessionStorage获取数据
+
+var data = sessionStorage.getItem('key');
+
+ 
+
+// 从sessionStorage删除保存的数据
+
+sessionStorage.removeItem('key');
+
+ 
+
+// 从sessionStorage删除所有保存的数据
+
+sessionStorage.clear();
+
+ -->

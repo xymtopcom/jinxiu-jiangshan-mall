@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>锦绣疆山商城详情</title>
+	</head>
+	<link rel="stylesheet" type="text/css" href="../css/everyui-min.css"/>
+	<script src="../js/vue.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css">
+		/* *{ */
+			/* background-color: #000000; */
+		/* } */
+		body{
+			margin: 0;
+			/* background-color: #000000; */
+			background-image: url(../img/ts1.jpg);
+		}
+		/* button{ */
+			/* margin-left: 300px; */
+		/* } */
+		h1{
+			margin-left: 650px;
+			margin-top: 200px;
+			color: #FFFFFF;
+		}
+	</style>
+	<body>
+		<h1>锦绣疆山商城</h1>
+		<button type="button" class="eve-button-general" style="margin-left: 650px;margin-top: 60px;" onclick="pc()">电脑端</button>
+		<button type="button" class="eve-button-general" style="margin-left: 640px;" onclick="android()">安卓手机端</button>
+	</body>
+	<script type="text/javascript">
+		function pc(){
+			// alert('pc')
+			 window.location.href="../center/index.html"; 
+		}
+		
+		function android(){
+			// alert('android')
+			window.location.href="../src/jxjs.apk";
+		}
+	</script>
+</html>
